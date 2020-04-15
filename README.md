@@ -10,7 +10,6 @@ PC端浏览器安装油猴脚本->安装上传gif脚本->上传刷新即可
 https://b23.tv/BV1n5411t7hN
 
 原教程
-
 https://www.caixiaojing.com/Tech-Otakus/dynamicAvatar.html
 
 b站文章CV5514054
@@ -33,7 +32,7 @@ b站文章 CV5534131
 
 https://www.bilibili.com/read/cv5534131?share_source=qq&;share_medium=iphone&bbid=ZC4855CEE52489DB4A6BBC0D8F823564AF90&ts=1586871174
 
-觉得有用的朋友可以顺手点个赞、点个关注支持一下
+觉得有用的朋友可以顺手点个Star、点个关注支持一下
 作者：不能吃的ak酱
 https://www.bilibili.com/read/cv5616146
 出处： bilibili
